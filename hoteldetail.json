@@ -1,0 +1,486 @@
+{
+    "hotels": {
+        "Europe": {
+            "Europe": {
+                "Italy": [{
+                    "region": "Europe",
+                    "city": "Baja Sardinia (Arzachena)",
+                    "openDate": "2022-08-01",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/italy/7-pines-resort-sardinia/sardh",
+                    "name": "7Pines Resort Sardinia",
+                    "spiritCode": "sardh",
+                    "description": "<p>Luxury beachfront resort cradled in the natural contours of Baja Sardinia.</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/08/26/0656/SARDH-P0159-Woman-Rooftop-View.jpg/SARDH-P0159-Woman-Rooftop-View.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/08/26/0656/SARDH-P0159-Woman-Rooftop-View.jpg/SARDH-P0159-Woman-Rooftop-View.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "Europe",
+                        "regionGroupKey": "3-Europe",
+                        "regionSubgroup": "Europe",
+                        "subRegion": "Italy"
+                    }
+                }],
+                "Spain": [{
+                    "region": "Europe",
+                    "city": "Ibiza",
+                    "openDate": "2021-06-04",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/spain/7-pines-resort-ibiza/ibzdh",
+                    "name": "7Pines Resort Ibiza",
+                    "spiritCode": "ibzdh",
+                    "description": "<p>All-suite resort, laid-back luxury with infinite sea views.</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/04/26/1249/IBZDH-P0017-Cliff-Pool-Suite-Duplex-Deluxe-Terrace.jpg/IBZDH-P0017-Cliff-Pool-Suite-Duplex-Deluxe-Terrace.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/04/26/1249/IBZDH-P0017-Cliff-Pool-Suite-Duplex-Deluxe-Terrace.jpg/IBZDH-P0017-Cliff-Pool-Suite-Duplex-Deluxe-Terrace.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "Europe",
+                        "regionGroupKey": "3-Europe",
+                        "regionSubgroup": "Europe",
+                        "subRegion": "Spain"
+                    }
+                }, {
+                    "region": "Europe",
+                    "city": "Alcudia ",
+                    "openDate": "2024-12-01",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/spain/sarena-de-muro-resort-mallorca/pmidh",
+                    "name": "Sarena de Muro Resort Mallorca",
+                    "spiritCode": "pmidh",
+                    "description": "<p>The primary hotel description displays here, and the &quot;Booking&quot; variation contains the brief variation of the description.</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/10/23/1343/PMIDH-P0101-Lobby.jpg/PMIDH-P0101-Lobby.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/10/23/1343/PMIDH-P0101-Lobby.jpg/PMIDH-P0101-Lobby.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "Europe",
+                        "regionGroupKey": "3-Europe",
+                        "regionSubgroup": "Europe",
+                        "subRegion": "Spain"
+                    }
+                }],
+                "United Kingdom": [{
+                    "region": "Europe",
+                    "city": "Kelso",
+                    "openDate": "2022-11-14",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/scotland-united-kingdom/schloss-roxburghe/edidr",
+                    "name": "SCHLOSS Roxburghe",
+                    "spiritCode": "edidr",
+                    "description": "<p>Luxury hotel in a historic estate with Golf Course and Spa&nbsp;</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/10/25/0659/EDIDR-P0003-Castle-Entrance-Sunset.jpg/EDIDR-P0003-Castle-Entrance-Sunset.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/10/25/0659/EDIDR-P0003-Castle-Entrance-Sunset.jpg/EDIDR-P0003-Castle-Entrance-Sunset.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "Europe",
+                        "regionGroupKey": "3-Europe",
+                        "regionSubgroup": "Europe",
+                        "subRegion": "United Kingdom"
+                    }
+                }]
+            }
+        },
+        "Latin America": {
+            "Latin America": {
+                "Peru": [{
+                    "region": "Latin America",
+                    "city": "Paracas, Ica",
+                    "openDate": "2024-05-01",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/peru/the-legend-paracas-resort/piodh",
+                    "name": "The Legend Paracas Resort",
+                    "spiritCode": "piodh",
+                    "description": "<p>Luxury oceanfront hotel and spa; near city center and nature reserve</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/04/05/1556/PIODH-P0010-Pool-At-Dusk.jpg/PIODH-P0010-Pool-At-Dusk.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/04/05/1556/PIODH-P0010-Pool-At-Dusk.jpg/PIODH-P0010-Pool-At-Dusk.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "Caribbean & Latin America",
+                        "regionGroupKey": "2-CaribbeanAndLatinAmerica",
+                        "regionSubgroup": "Latin America",
+                        "subRegion": "Peru"
+                    }
+                }]
+            }
+        },
+        "North America": {
+            "United States": {
+                "Arizona": [{
+                    "region": "North America",
+                    "city": "Tempe",
+                    "openDate": "2018-11-30",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/destination-by-hyatt/en-US/phxdt-tempe-mission-palms",
+                    "name": "Tempe Mission Palms",
+                    "spiritCode": "phxdt",
+                    "description": "Downtown hotel in vibrant Mill Avenue District; near Phoenix International Airport",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/03/20/0951/Tempe-Mission-Palms-W001-Exterior.jpg/Tempe-Mission-Palms-W001-Exterior.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/03/20/0951/Tempe-Mission-Palms-W001-Exterior.jpg/Tempe-Mission-Palms-W001-Exterior.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "Arizona"
+                    }
+                }],
+                "California": [{
+                    "region": "North America",
+                    "city": "Olympic Valley",
+                    "openDate": "2018-11-30",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/destination-by-hyatt/en-US/rnodh-everline-resort-and-spa",
+                    "name": "Everline Resort & Spa",
+                    "spiritCode": "rnodh",
+                    "description": "Upscale family ski resort minutes from North Lake Tahoe; just 2 miles from Palisades Tahoe",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/03/12/0943/Resort-at-Squaw-Creek-P020-Exterior-Winter-Lift.jpg/Resort-at-Squaw-Creek-P020-Exterior-Winter-Lift.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/03/12/0943/Resort-at-Squaw-Creek-P020-Exterior-Winter-Lift.jpg/Resort-at-Squaw-Creek-P020-Exterior-Winter-Lift.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "California"
+                    }
+                }, {
+                    "region": "North America",
+                    "city": "Oceanside",
+                    "openDate": "2021-05-25",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/california/the-seabird/sando",
+                    "name": "The Seabird Ocean Resort & Spa",
+                    "spiritCode": "sando",
+                    "description": "<p>Enjoy a classic resort experience with an eccentric, artistic twist in Oceanside CA</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/06/26/1306/SANDO-P0273-Pool-With-Ocean-Front-View.jpg/SANDO-P0273-Pool-With-Ocean-Front-View.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/06/26/1306/SANDO-P0273-Pool-With-Ocean-Front-View.jpg/SANDO-P0273-Pool-With-Ocean-Front-View.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "California"
+                    }
+                }, {
+                    "region": "North America",
+                    "city": "Culver City",
+                    "openDate": "2021-10-06",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/destination-by-hyatt/en-US/laxdi-the-shay",
+                    "name": "The Shay",
+                    "spiritCode": "laxdi",
+                    "description": "Boutique hotel in Culver City, vibrant restaurant scene and rooftop pool deck, part of Ivy Station",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2023/01/18/1840/LAXDI-P0189-Exterior-Evening.jpg/LAXDI-P0189-Exterior-Evening.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2023/01/18/1840/LAXDI-P0189-Exterior-Evening.jpg/LAXDI-P0189-Exterior-Evening.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "California"
+                    }
+                }],
+                "Colorado": [{
+                    "region": "North America",
+                    "city": "Vail",
+                    "openDate": "2022-05-26",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/destination-by-hyatt/en-US/denda-austria-haus",
+                    "name": "Austria Haus",
+                    "spiritCode": "denda",
+                    "description": "Gore Creek boutique hotel in the heart of Vail Village, Colorado, near skiing, shopping, dining",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2025/01/16/0923/DENDA-P0050-Austria-Haus-Pool-Winter-Exterior-Creek.jpg/DENDA-P0050-Austria-Haus-Pool-Winter-Exterior-Creek.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2025/01/16/0923/DENDA-P0050-Austria-Haus-Pool-Winter-Exterior-Creek.jpg/DENDA-P0050-Austria-Haus-Pool-Winter-Exterior-Creek.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "Colorado"
+                    }
+                }, {
+                    "region": "North America",
+                    "city": "Colorado Springs",
+                    "openDate": "2024-10-10",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/destination-by-hyatt/en-US/cosdh-cheyenne-mountain-resort",
+                    "name": "Cheyenne Mountain Resort",
+                    "spiritCode": "cosdh",
+                    "description": "Upscale family resort at the base of the Rocky Mountains; near Garden of the Gods, Manitou Springs",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/10/10/1006/COSDH-P0116-Resort-Campus-With-Sunset-Backdrop.jpg/COSDH-P0116-Resort-Campus-With-Sunset-Backdrop.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/10/10/1006/COSDH-P0116-Resort-Campus-With-Sunset-Backdrop.jpg/COSDH-P0116-Resort-Campus-With-Sunset-Backdrop.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "Colorado"
+                    }
+                }, {
+                    "region": "North America",
+                    "city": "Vail",
+                    "openDate": "2018-11-30",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/destination-by-hyatt/en-US/dendv-vail-residences-at-cascade-village",
+                    "name": "Vail Residences at Cascade Village",
+                    "spiritCode": "dendv",
+                    "description": "Ski-in/ski-out resort at the base of Vail Mountain; minutes to Vail Village and Lionshead Village",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/09/20/1155/Vail-Residences-at-Cascade-Village-P002-Exterior-Winter-Ski-Lift-Gore-Creek.jpg/Vail-Residences-at-Cascade-Village-P002-Exterior-Winter-Ski-Lift-Gore-Creek.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/09/20/1155/Vail-Residences-at-Cascade-Village-P002-Exterior-Winter-Ski-Lift-Gore-Creek.jpg/Vail-Residences-at-Cascade-Village-P002-Exterior-Winter-Ski-Lift-Gore-Creek.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "Colorado"
+                    }
+                }],
+                "Hawaii": [{
+                    "region": "North America",
+                    "city": "Hana",
+                    "openDate": "2020-09-01",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/destination-by-hyatt/en-US/oggal-hana-maui-resort",
+                    "name": "Hana-Maui Resort",
+                    "spiritCode": "oggal",
+                    "description": "Oceanfront resort and spa on the picturesque Road to Hana; near Black Sand Beach and Hana Lava Tube",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2020/08/12/1513/Hana-Maui-Resort-P001-Garden-Suite-View.jpg/Hana-Maui-Resort-P001-Garden-Suite-View.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2020/08/12/1513/Hana-Maui-Resort-P001-Garden-Suite-View.jpg/Hana-Maui-Resort-P001-Garden-Suite-View.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "Hawaii"
+                    }
+                }],
+                "Missouri": [{
+                    "region": "North America",
+                    "city": "Excelsior Springs",
+                    "openDate": "2018-11-30",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/destination-by-hyatt/en-US/mcidh-the-elms-hotel-and-spa",
+                    "name": "The Elms Hotel & Spa",
+                    "spiritCode": "mcidh",
+                    "description": "Historic spa hotel and wellness retreat in Excelsior Springs, near shopping and Siloam Mountain Park",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/06/29/1937/MCIDH-P0040-Front-Exterior-Day.jpg/MCIDH-P0040-Front-Exterior-Day.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/06/29/1937/MCIDH-P0040-Front-Exterior-Day.jpg/MCIDH-P0040-Front-Exterior-Day.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "Missouri"
+                    }
+                }],
+                "Nevada": [{
+                    "region": "North America",
+                    "city": "Las Vegas",
+                    "openDate": null,
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/nevada/rio-hotel-and-casino/lasdh",
+                    "name": "Rio Hotel and Casino",
+                    "spiritCode": "lasdh",
+                    "description": "<p>Minutes from the center of the Las Vegas Strip, Rio Hotel &amp; Casino brings the spirit of Brazil’s Carnival to table games, live shows and spacious suites.&nbsp;</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/10/17/0904/LASDH-P0267-Exterior-With-Strip.jpg/LASDH-P0267-Exterior-With-Strip.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/10/17/0904/LASDH-P0267-Exterior-With-Strip.jpg/LASDH-P0267-Exterior-With-Strip.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "Nevada"
+                    }
+                }],
+                "North Carolina": [{
+                    "region": "North America",
+                    "city": "Chapel Hill",
+                    "openDate": "2018-11-30",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/destination-by-hyatt/en-US/rdudh-rizzo-conference-center",
+                    "name": "Rizzo Center",
+                    "spiritCode": "rdudh",
+                    "description": "Elegant Durham hotel in Meadowmont near UNC-Chapel Hill; quick drive to chic dining and retail",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/03/18/1044/Rizzo-Center-P019-Exterior.jpg/Rizzo-Center-P019-Exterior.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/03/18/1044/Rizzo-Center-P019-Exterior.jpg/Rizzo-Center-P019-Exterior.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "North Carolina"
+                    }
+                }, {
+                    "region": "North America",
+                    "city": "Chapel Hill",
+                    "openDate": "2018-11-30",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/destination-by-hyatt/en-US/rdudc-the-carolina-inn",
+                    "name": "The Carolina Inn",
+                    "spiritCode": "rdudc",
+                    "description": "Hotel on Chapel Hill campus; close to football stadium and other university landmarks",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/03/20/1440/The-Carolina-Inn-P001-Courtyard.jpg/The-Carolina-Inn-P001-Courtyard.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/03/20/1440/The-Carolina-Inn-P001-Courtyard.jpg/The-Carolina-Inn-P001-Courtyard.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "North Carolina"
+                    }
+                }],
+                "South Carolina": [{
+                    "region": "North America",
+                    "city": "Isle of Palms",
+                    "openDate": null,
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/south-carolina/wild-dunes-resort-residences-at-sweetgrass/chsdv",
+                    "name": "Wild Dunes Resort - Residences at Sweetgrass",
+                    "spiritCode": "chsdv",
+                    "description": "<p>Residential boutique near Isle of Palms Beach; stunning ocean views</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/06/10/0845/CHSDV-P0029-Exterior-View.jpg/CHSDV-P0029-Exterior-View.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2024/06/10/0845/CHSDV-P0029-Exterior-View.jpg/CHSDV-P0029-Exterior-View.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "South Carolina"
+                    }
+                }, {
+                    "region": "North America",
+                    "city": "Isle of Palms",
+                    "openDate": "2018-11-30",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/south-carolina/wild-dunes-resort-sweetgrass-inn-and-boardwalk-inn/chsdb",
+                    "name": "Wild Dunes Resort - Sweetgrass Inn and Boardwalk Inn",
+                    "spiritCode": "chsdb",
+                    "description": "<p>Charleston's island resort, an award-winning oceanfront paradise offering golf, tennis, spa, recreation programs, restaurants and miles of pristine beach.</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/04/15/1443/CHSDB-P0086-Sweetgrass-Inn-Pool-Deck.jpg/CHSDB-P0086-Sweetgrass-Inn-Pool-Deck.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/04/15/1443/CHSDB-P0086-Sweetgrass-Inn-Pool-Deck.jpg/CHSDB-P0086-Sweetgrass-Inn-Pool-Deck.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "South Carolina"
+                    }
+                }, {
+                    "region": "North America",
+                    "city": "Isle of Palms",
+                    "openDate": "2018-11-30",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/south-carolina/wild-dunes-resort-vacation-rentals/chsdi",
+                    "name": "Wild Dunes Resort Vacation Rentals",
+                    "spiritCode": "chsdi",
+                    "description": "<p>Our Isle of Palms vacation homes, condos, and cottages offer both comfort and convenience - plus plenty of space to truly feel at home</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/04/15/1443/CHSDB-P0089-Wild-Dunes-Aerial-Beach-View.jpg/CHSDB-P0089-Wild-Dunes-Aerial-Beach-View.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/04/15/1443/CHSDB-P0089-Wild-Dunes-Aerial-Beach-View.jpg/CHSDB-P0089-Wild-Dunes-Aerial-Beach-View.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "South Carolina"
+                    }
+                }],
+                "Vermont": [{
+                    "region": "North America",
+                    "city": "Stowe",
+                    "openDate": null,
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/vermont/residences-at-spruce-peak/btvdr",
+                    "name": "Residences at Spruce Peak",
+                    "spiritCode": "btvdr",
+                    "description": "<p>The primary hotel description displays here, and the &quot;Booking&quot; variation contains the brief variation of the description.</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2023/11/09/1222/BTVDH-P0292-Hotel-Fall-View.jpg/BTVDH-P0292-Hotel-Fall-View.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2023/11/09/1222/BTVDH-P0292-Hotel-Fall-View.jpg/BTVDH-P0292-Hotel-Fall-View.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "Vermont"
+                    }
+                }, {
+                    "region": "North America",
+                    "city": "Stowe",
+                    "openDate": "2018-11-30",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/vermont/the-lodge-at-spruce-peak/btvdh",
+                    "name": "The Lodge at Spruce Peak",
+                    "spiritCode": "btvdh",
+                    "description": "<p>The Northeast’s only ski-in ski-out luxury lodging destination. Featuring year-round recreation, residential offerings, and farm-to-table dining.</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/09/25/1732/The-Lodge-at-Spruce-Peak-P072-Ice-Skating-Rink.jpg/The-Lodge-at-Spruce-Peak-P072-Ice-Skating-Rink.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/09/25/1732/The-Lodge-at-Spruce-Peak-P072-Ice-Skating-Rink.jpg/The-Lodge-at-Spruce-Peak-P072-Ice-Skating-Rink.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "Vermont"
+                    }
+                }],
+                "Washington": [{
+                    "region": "North America",
+                    "city": "Cle Elum",
+                    "openDate": "2018-11-30",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/destination-by-hyatt/en-US/seadl-suncadia-resort",
+                    "name": "Suncadia Resort",
+                    "spiritCode": "seadl",
+                    "description": "A charming mountain resort nestled in the Cascade Mountains, 80 miles east of Seattle",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/03/13/1222/Suncadia-Resort-P001-Exterior-River-View-Fire-Pit.jpg/Suncadia-Resort-P001-Exterior-River-View-Fire-Pit.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/03/13/1222/Suncadia-Resort-P001-Exterior-River-View-Fire-Pit.jpg/Suncadia-Resort-P001-Exterior-River-View-Fire-Pit.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "Washington"
+                    }
+                }, {
+                    "region": "North America",
+                    "city": "Cle Elum",
+                    "openDate": "2018-11-30",
+                    "hotelStatus": "FULLY_BOOKABLE",
+                    "propertySiteURL": "https://www.hyatt.com/en-US/hotel/washington/vacation-homes-at-suncadia-resort/seada",
+                    "name": "Vacation Homes at Suncadia Resort",
+                    "spiritCode": "seada",
+                    "description": "<p>A mountain resort located 80 miles east of Seattle, amongst the Cascade Mountains.</p>\n",
+                    "thumbnails": {
+                        "standard": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/11/06/1857/Vacation-Homes-at-Suncadia-Resort-P005-Home-Six-Bedroom.jpg/Vacation-Homes-at-Suncadia-Resort-P005-Home-Six-Bedroom.4x3.jpg",
+                        "widescreen": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/11/06/1857/Vacation-Homes-at-Suncadia-Resort-P005-Home-Six-Bedroom.jpg/Vacation-Homes-at-Suncadia-Resort-P005-Home-Six-Bedroom.16x9.jpg"
+                    },
+                    "geopolitics": {
+                        "regionGroup": "United States & Canada",
+                        "regionGroupKey": "1-NorthAmerica",
+                        "regionSubgroup": "United States",
+                        "subRegion": "Washington"
+                    }
+                }]
+            }
+        }
+    }
+}
